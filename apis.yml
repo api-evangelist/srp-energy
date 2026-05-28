@@ -1,0 +1,32 @@
+aid: srp-energy
+name: Srp Energy
+description: "Hourly usage energy report for Srp customers"
+url: https://srpenergy-api-client-python.readthedocs.io/en/latest/api.html
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Environment"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Environment
+  - Public APIs
+apis:
+  - name: Srp Energy
+    description: "Hourly usage energy report for Srp customers"
+    humanURL: https://srpenergy-api-client-python.readthedocs.io/en/latest/api.html
+    baseURL: https://srpenergy-api-client-python.readthedocs.io/en/latest/api.html
+    tags:
+      - Environment
+    properties:
+      - type: Documentation
+        url: https://srpenergy-api-client-python.readthedocs.io/en/latest/api.html
+common:
+  - type: Website
+    url: https://srpenergy-api-client-python.readthedocs.io/en/latest/api.html
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
