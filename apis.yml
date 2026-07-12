@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://srpenergy-api-client-python.readthedocs.io/en/latest/api.html
 common:
+  - type: DomainSecurity
+    url: security/srp-energy-domain-security.yml
   - type: Website
     url: https://srpenergy-api-client-python.readthedocs.io/en/latest/api.html
   - type: PublicAPIsListing
