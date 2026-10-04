@@ -39,7 +39,6 @@ apis:
   - name: Srp Energy
     description: "Hourly usage energy report for Srp customers"
     humanURL: https://srpenergy-api-client-python.readthedocs.io/en/latest/api.html
-    baseURL: https://srpenergy-api-client-python.readthedocs.io/en/latest/api.html
     tags:
       - Environment
     properties:
